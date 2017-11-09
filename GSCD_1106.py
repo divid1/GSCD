@@ -1,6 +1,6 @@
-#灰色斜率关联度
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#灰色斜率关联度
 
 import pandas as pd
 import numpy as np
