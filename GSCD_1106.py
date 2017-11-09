@@ -1,3 +1,4 @@
+#灰色斜率关联度
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
